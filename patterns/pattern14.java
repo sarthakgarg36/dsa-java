@@ -8,7 +8,5 @@ public class pattern14 {
             }
         }
              System.out.println("");
-             int u=1;
-             System.out.print(u);
     }
 }
