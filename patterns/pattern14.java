@@ -7,6 +7,8 @@ public class pattern14 {
                 System.out.println(n + "*" + i+"="+(n*i));
             }
         }
-        System.out.println("");
+             System.out.println("");
+             int u=1;
+             System.out.print(u);
     }
 }
